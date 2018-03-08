@@ -1,4 +1,4 @@
-# PARTE 5 - Funções
+# PARTE 6 - Funções
 
 ## Conceitos trabalhados
 
